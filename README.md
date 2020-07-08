@@ -12,21 +12,15 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/aviavinashkr/BigRun?style=social)
 
 
-<p align="center">
-  <img src="SplashScreen.jpg" height="200"/>
-</p>
-<p align="center">
-  <img src="MainScreen.jpg" height="200"/>
-</p>
-<p align="center">
-  <img src="Play.jpg" height="200"/>
-</p>
-<p align="center">
-  <img src="retry.jpg" height="200"/>
-</p>
-<p align="center">
-  <img src="Exitdialog.jpg" height="200"/>
-</p>
+
+<h2 align="left">Screenshots</h2>
+<h4 align="center">
+<img src="SplashScreen.jpg" width="30%" vspace="10" hspace="10">
+<img src="MainScreen.jpg" width="30%" vspace="10" hspace="10">
+<img src="Play.jpg" width="30%" vspace="10" hspace="10""><br>
+<h4 align="center">
+<img src="retry.jpg" width="30%" vspace="10" hspace="10">
+<img src="Exitdialog.jpg" width="30%" vspace="10" hspace="10""><br>
 
 Big Run is a simple Android game application 📱. 
 
