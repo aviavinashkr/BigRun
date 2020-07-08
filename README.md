@@ -4,6 +4,7 @@
   <img src="ic_icon.png" height="200"/>
 </p>
 
+Big Run is a simple Android game application 📱. 
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Github Followers](https://img.shields.io/github/followers/aviavinashkr?label=Follow&style=social)
@@ -22,7 +23,7 @@
 <img src="retry.jpg" width="30%" vspace="10" hspace="10">
 <img src="Exitdialog.jpg" width="30%" vspace="10" hspace="10""><br>
 
-Big Run is a simple Android game application 📱. 
+
 
 
 # MADE FOR FUN 🎮
