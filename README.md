@@ -23,7 +23,7 @@
 <td><img src=“MainScreen.jpg”/></td>
 <td><img src=“Play.jpg”/></td>
 <td><img src=“retry.jpg”/></td>
-<td><img src=“Exitdialog”/></td>
+<td><img src=“Exitdialog.jpg”/></td>
 </tr>
 </table>
 
