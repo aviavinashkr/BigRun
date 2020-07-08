@@ -1,7 +1,7 @@
 # Big Run
 
 <p align="center">
-  <img src="images/ic_icon.png" height="200"/>
+  <img src="ic_icon.png" height="200"/>
 </p>
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -19,11 +19,11 @@
 <th>Exit Dialog</th>
 </tr>
 <tr>
-<td><img src=“images/SplashScreen.jpg”/></td>
-<td><img src=“images/MainScreen.jpg”/></td>
-<td><img src=“images/Play.jpg”/></td>
-<td><img src=“images/retry.jpg”/></td>
-<td><img src=“images/Exitdialog”/></td>
+<td><img src=“SplashScreen.jpg”/></td>
+<td><img src=“MainScreen.jpg”/></td>
+<td><img src=“Play.jpg”/></td>
+<td><img src=“retry.jpg”/></td>
+<td><img src=“Exitdialog”/></td>
 </tr>
 </table>
 
