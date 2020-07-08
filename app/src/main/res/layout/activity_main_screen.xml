@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainscreen"
+    tools:context="avinash.Kumar.bigRun.MainScreen">
+
+    <ImageButton
+        android:id="@+id/backBtn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="15dp"
+        android:background="@mipmap/back" />
+
+    <TextView
+        android:id="@+id/textMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="97dp"
+        android:fontFamily="@font/gamefont_regular"
+        android:paddingStart="100dp"
+        android:text="@string/bigrun"
+        android:textColor="#000000"
+        android:textSize="80sp"
+        tools:ignore="RtlSymmetry" />
+
+    <ImageButton
+        android:id="@+id/playBtn"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/textMain"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="242dp"
+        android:layout_marginTop="58dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/play" />
+
+    <ImageButton
+        android:id="@+id/aboutBtn"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/playBtn"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="237dp"
+        android:layout_marginTop="27dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/about" />
+
+    <ImageButton
+        android:id="@+id/exitBtn"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/aboutBtn"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="240dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/exit" />
+
+</RelativeLayout>

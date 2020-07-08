@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">BigRun</string>
+    <string name="time_10">Time: 30</string>
+    <string name="points">Score: 0</string>
+    <string name="tap_on_the_minions_to_score">Tap on the Minions to Score</string>
+    <string name="title_activity_game_fragment">GameFragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="bigrun">BigRun</string>
+    <string name="title_activity_time_out">TimeOutActivity</string>
+    <string name="time_out">Time Out</string>
+    <string name="your_score">Your Score:</string>
+    <string name="highscore">HighScore</string>
+
+    <string name="version_1_0">Version 1.0</string>
+    <string name="developed_by">Developed By</string>
+    <string name="avinash_kumar">Avinash Kumar</string>
+    <string name="todo">TODO</string>
+
+
+    <string name="text_error">Error</string>
+    <string name="text_success">Success</string>
+    <string name="text_ok">OK</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="text_yes">yes</string>
+    <string name="ascending_or_descending_order">Ascending or descending order</string>
+    <string name="text_dialog">Do u Want to Exit?</string>
+    <string name="filter_by_author_or_date">Filter by author or date</string>
+    <string name="text_author">Author</string>
+    <string name="text_date">Date</string>
+    <string name="text_filter">Filter</string>
+    <string name="filter_author">Author</string>
+    <string name="filter_date">Date</string>
+    <string name="key_filter">filter</string>
+    <string name="key_order">order</string>
+    <string name="order_asc">ASC</string>
+    <string name="order_desc">DESC</string>
+
+</resources>

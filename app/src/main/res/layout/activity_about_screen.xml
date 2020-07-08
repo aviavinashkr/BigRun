@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/about_screen"
+    tools:context="avinash.Kumar.bigRun.MainScreen">
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@mipmap/back"
+        android:layout_margin="15dp"
+        android:id="@+id/backBtn"/>
+
+    <TextView
+        android:id="@+id/aboutText"
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/gamefont_bold"
+        android:text="@string/bigrun"
+        android:textSize="80sp" />
+
+    <ImageView
+        android:id="@+id/aboutLogo"
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/aboutText"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:contentDescription="@string/todo"
+        android:src="@mipmap/ic_icon" />
+
+    <TextView
+        android:id="@+id/aboutVersion"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_below="@id/aboutLogo"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/gamefont_bold"
+        android:padding="15dp"
+        android:text="@string/version_1_0"
+        android:textSize="25sp"/>
+
+    <TextView
+        android:id="@+id/developedBy"
+        android:layout_width="160dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/aboutVersion"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="185dp"
+        android:fontFamily="@font/gamefont_bold"
+        android:text="@string/developed_by"
+        android:textSize="25sp" />
+
+    <ImageView
+        android:id="@+id/pic_profile"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/developedBy"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/todo"
+        android:src="@mipmap/pic" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="100dp"
+        android:layout_height="20dp"
+        android:layout_below="@+id/pic_profile"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/gamefont_regular"
+        android:text="@string/avinash_kumar"
+        android:textSize="15sp" />
+
+    <ImageButton
+        android:id="@+id/gitHubLogo"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/name"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="0dp"
+        android:background="@mipmap/github"
+        android:contentDescription="@string/todo" />
+
+    <ImageButton
+        android:id="@+id/twitterLogo"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/name"
+        android:layout_alignEnd="@id/gitHubLogo"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="-60dp"
+        android:background="@mipmap/twitter"
+        android:contentDescription="@string/todo" />
+</RelativeLayout>
