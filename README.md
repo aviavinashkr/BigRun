@@ -4,28 +4,29 @@
   <img src="ic_icon.png" height="200"/>
 </p>
 
-[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![Github Followers](https://img.shields.io/github/followers/the-it-weirdo?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/the-it-weirdo/Covid-19_Dashboard?style=social)
-![GitHub forks](https://img.shields.io/github/forks/the-it-weirdo/Covid-19_Dashboard?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/the-it-weirdo/Covid-19_Dashboard?style=social)
 
-<table style=“width:100%”>
-<tr>
-<th>Splash Screen</th>
-<th>Main Screen</th>
-<th>Game Screen</th>
-<th>Retry Game</th>
-<th>Exit Dialog</th>
-</tr>
-<tr>
-<td><img src=“SplashScreen.jpg”/></td>
-<td><img src=“MainScreen.jpg”/></td>
-<td><img src=“Play.jpg”/></td>
-<td><img src=“retry.jpg”/></td>
-<td><img src=“Exitdialog.jpg”/></td>
-</tr>
-</table>
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Github Followers](https://img.shields.io/github/followers/aviavinashkr?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/aviavinashkr/BigRun?style=social)
+![GitHub forks](https://img.shields.io/github/forks/aviavinashkr/BigRun?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/aviavinashkr/BigRun?style=social)
+
+
+<p align="center">
+  <img src="SplashScreen.jpg" height="200"/>
+</p>
+<p align="center">
+  <img src="MainScreen.jpg" height="200"/>
+</p>
+<p align="center">
+  <img src="Play.jpg" height="200"/>
+</p>
+<p align="center">
+  <img src="retry.jpg" height="200"/>
+</p>
+<p align="center">
+  <img src="Exitdialog.jpg" height="200"/>
+</p>
 
 Big Run is a simple Android game application 📱. 
 
